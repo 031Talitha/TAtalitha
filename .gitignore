@@ -1,0 +1,35 @@
+# =========================
+# Python / Environment
+# =========================
+env_ta/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# =========================
+# Dokumen TA & Administrasi
+# =========================
+*.docx
+*.pdf
+*.pptx
+
+# =========================
+# Data & temporary files
+# =========================
+*.csv
+~$*
+*.drawio
+
+# =========================
+# Gambar non-metodologi
+# =========================
+Gemini_*
+Logo-*
+Hasil*
+ROADMAP*
+
+# =========================
+# Folder administratif
+# =========================
+Dokumentasi/
+Referensi*/
