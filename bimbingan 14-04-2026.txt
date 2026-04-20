@@ -1,0 +1,9 @@
+- actual vs forecast jangan dijadiin satu2 kek actual vs test & train
+- ditunning dulu parameternya karna MAPE bisa lebih kecil lagi
+- makin banyak layer maka makin bagus tapi time processingnya lebih lama
+- time processing dulu pokok
+- kalo processnya lama ngapain harus pake 2 layer
+- faktor penentuan:
+lama time processnya
+tingkat akurasinya brp
+= threat off
